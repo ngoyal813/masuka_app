@@ -1,0 +1,2 @@
+rootProject.name = "masuka_app"
+include ':app'
